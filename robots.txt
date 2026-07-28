@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-zqet18.indocuansite.space/sitemap.xml
